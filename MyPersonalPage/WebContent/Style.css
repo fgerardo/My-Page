@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+{margin:0; padding: 0;}
+p{font-size: 15pt; color:black;}
+#est{letter-spacing:0.4em;
+font-family:Arial;}
+h1#est{letter-spacing:2em}
+img{width:200px; height: 120:}
+table{
+	border: 1px solid black ;
+	 width:100%;
+}
+td, th {border: 1px solid black;}
+li{font-size: 15pt; color:orange;}
+
